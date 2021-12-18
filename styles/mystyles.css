@@ -1,0 +1,23 @@
+/*Ammon Mayfield*/
+
+.large {
+    font-size: large;
+    font-weight: bold;
+}
+.listheader {
+    font-weight: bold;
+    font-style: normal;
+}
+.underline {
+    text-decoration: underline;
+}
+.normalnormal {
+    text-decoration: none;
+    font-weight: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px;
+}
+.font {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:100;
+}
